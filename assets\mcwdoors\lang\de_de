@@ -1,0 +1,99 @@
+	{
+		
+		"itemGroup.door": "Macaw's Doors",
+     
+   	    "item.mcwdoors.print_oak":"Eichenholz Tür Aufdruck",
+        "item.mcwdoors.print_spruce":"Fichtenholz Tür Aufdruck",
+        "item.mcwdoors.print_birch":"Birkenholz Tür Aufdruck",
+        "item.mcwdoors.print_jungle":"Tropenholz Tür Aufdruck",
+        "item.mcwdoors.print_acacia":"Akazienholz Tür Aufdruck",
+        "item.mcwdoors.print_dark_oak":"Schwarzseichenholz Tür Aufdruck",
+
+		"block.mcwdoors.oak_japanese_door":"Eichenholz Shoji Tür",
+		"block.mcwdoors.spruce_japanese_door":"Fichtenholz Shoji Tür",
+		"block.mcwdoors.birch_japanese_door":"Birkenholz Shoji Tür",
+		"block.mcwdoors.jungle_japanese_door":"Tropenholz Shoji Tür",
+		"block.mcwdoors.acacia_japanese_door":"Akazienholz Shoji Tür",
+		"block.mcwdoors.dark_oak_japanese_door":"Schwarzseichenholz Shoji Tür",
+		
+		"block.mcwdoors.oak_japanese2_door":"Eichenholz Shoji Whole Tür",
+		"block.mcwdoors.spruce_japanese2_door":"Fichtenholz Shoji Whole Tür",
+		"block.mcwdoors.birch_japanese2_door":"Birkenholz Shoji Whole Tür",
+		"block.mcwdoors.jungle_japanese2_door":"Tropenholz Shoji Whole Tür",
+		"block.mcwdoors.acacia_japanese2_door":"Akazienholz Shoji Whole Tür",
+		"block.mcwdoors.dark_oak_japanese2_door":"Schwarzseichenholz Shoji Whole Tür",
+		
+		"block.mcwdoors.oak_barn_door":"Eichenholz Stalltür",
+		"block.mcwdoors.spruce_barn_door":"Fichtenholz Stalltür",
+		"block.mcwdoors.birch_barn_door":"Birkenholz Stalltür",
+		"block.mcwdoors.jungle_barn_door":"Tropenholz Stalltür",
+		"block.mcwdoors.acacia_barn_door":"Akazienholz Stalltür",
+		"block.mcwdoors.dark_oak_barn_door":"Schwarzseichenholz Stalltür",
+		
+		"block.mcwdoors.oak_modern_door":"Moderne Eichenholztür",
+		"block.mcwdoors.spruce_modern_door":"Moderne Fichtenholztür",
+		"block.mcwdoors.birch_modern_door":"Moderne Birkenholztür",
+		"block.mcwdoors.jungle_modern_door":"Moderne Tropenholztür",
+		"block.mcwdoors.acacia_modern_door":"Moderne Akazienholztür",
+		"block.mcwdoors.dark_oak_modern_door":"Moderne Schwarzseichenholz",
+		
+		"block.mcwdoors.oak_barn_glass_door":"Eichenholz Stalltür mit Glas",
+		"block.mcwdoors.spruce_barn_glass_door":"Fichtenholz Stalltür mit Glas",
+		"block.mcwdoors.birch_barn_glass_door":"Birkenholz Stalltür mit Glas",
+		"block.mcwdoors.jungle_barn_glass_door":"Tropenholz Stalltür mit Glas",
+		"block.mcwdoors.acacia_barn_glass_door":"Akazienholz Stalltür mit Glas",
+		"block.mcwdoors.dark_oak_barn_glass_door":"Schwarzseichenholz Stalltür mit Glas",
+        
+        "block.mcwdoors.oak_cottage_door":"Eichenholz Landhaustür",
+        "block.mcwdoors.birch_cottage_door":"Birkenholz Landhaustür",
+        "block.mcwdoors.jungle_cottage_door":"Tropenholz Landhaustür",
+        "block.mcwdoors.acacia_cottage_door":"Akazienholz Landhaustür",
+        "block.mcwdoors.dark_oak_cottage_door":"Schwarzseichenholz Landhaustür",
+        
+        "block.mcwdoors.spruce_classic_door":"Fichtenholz Tür",
+        "block.mcwdoors.birch_classic_door":"Birkenholz Tür",
+        "block.mcwdoors.jungle_classic_door":"Tropenholz Tür",
+        "block.mcwdoors.acacia_classic_door":"Akazienholz Tür",
+        "block.mcwdoors.dark_oak_classic_door":"Schwarzseichenholz Tür",
+        
+        "block.mcwdoors.oak_beach_door":"Eichenholz Strandtür",
+        "block.mcwdoors.spruce_beach_door":"Fichtenholz Strandtür",
+        "block.mcwdoors.birch_beach_door":"Birkenholz Strandtür",
+        "block.mcwdoors.acacia_beach_door":"Akazienholz Strandtür",
+        "block.mcwdoors.dark_oak_beach_door":"Schwarzseichenholz Strandtür",
+        
+        "block.mcwdoors.oak_paper_door":"Eichenholz Papiertür",
+        "block.mcwdoors.spruce_paper_door":"Fichtenholz Papiertür",
+        "block.mcwdoors.jungle_paper_door":"Tropenholz Papiertür",
+        "block.mcwdoors.acacia_paper_door":"Akazienholz Papiertür",
+        "block.mcwdoors.dark_oak_paper_door":"Schwarzseichenholz Papiertür",
+        
+        "block.mcwdoors.oak_four_panel_door":"Eichenholz Vierteltafel Tür",
+        "block.mcwdoors.spruce_four_panel_door":"Fichtenholz Vierteltafel Tür",
+        "block.mcwdoors.birch_four_panel_door":"Birkenholz Vierteltafel Tür",
+        "block.mcwdoors.jungle_four_panel_door":"Tropenholz Vierteltafel Tür",
+        "block.mcwdoors.acacia_four_panel_door":"Akazienholz Vierteltafel Tür",
+        
+        "block.mcwdoors.oak_tropical_door":"Eichenholz Tropentür",
+        "block.mcwdoors.spruce_tropical_door":"Fichtenholz Tropentür",
+        "block.mcwdoors.birch_tropical_door":"Birkenholz Tropentür",
+        "block.mcwdoors.jungle_tropical_door":"Tropenholz Tropentür",
+        "block.mcwdoors.dark_oak_tropical_door":"Schwarzseichenholz Tropentür",
+        
+        "block.mcwdoors.metal_door":"Metall Tür",
+		"block.mcwdoors.metal_warning_door":"Alarmtür aus Metall",
+		"block.mcwdoors.metal_hospital_door":"Krankenhaustür aus Metall",
+		"block.mcwdoors.metal_reinforced_door":"Verstärkte Metalltür",
+		"block.mcwdoors.metal_windowed_door":"Metalltür mit Fenstern",
+        "block.mcwdoors.jail_door":"Gefängnistür"
+        
+
+				
+		
+
+		
+		
+		
+                                                                     
+	}
+	
