@@ -1,0 +1,83 @@
+	{
+		"item.mcwbridges.iron_platform": "Eisenplatform",
+		"item.mcwbridges.iron_rod": "Eisenstange",
+		"item.mcwbridges.iron_armrest": "Eisenhandlauf",
+		
+		"itemGroup.bridges": "Macaw's Bridges",
+		
+		 "block.mcwbridges.most1":"Eisenbrücke Mittelteil",
+         "block.mcwbridges.most2":"Eisenbrücke Endstück",
+         "block.mcwbridges.oak_log_bridge_middle":"Eichenholz Brücke Mittelteil",
+         "block.mcwbridges.oak_log_bridge_end":"Eichenholz Brücke Endstück",
+         "block.mcwbridges.birch_log_bridge_end":"Birkenholz Brücke Endstück",
+         "block.mcwbridges.birch_log_bridge_middle":"Birkenholz Brücke Mittelteil",
+         "block.mcwbridges.acacia_log_bridge_end":"Akazienholz Brücke Endstück",
+         "block.mcwbridges.acacia_log_bridge_middle":"Akazienholz Brücke Mittelteil",
+         "block.mcwbridges.spruce_log_bridge_end":"Fichtenholz Brücke Endstück",
+         "block.mcwbridges.spruce_log_bridge_middle":"Fichtenholz Brücke Mittelteil",
+         "block.mcwbridges.jungle_log_bridge_end":"Tropenholz Brücke Endstück",
+         "block.mcwbridges.jungle_log_bridge_middle":"Tropenholz Brücke Mittelteil",
+         "block.mcwbridges.dark_oak_log_bridge_end":"Schwarzeichenholz Brücke Endstück",
+         "block.mcwbridges.dark_oak_log_bridge_middle":"Schwarzeichenholz Brücke Mittelteil",
+         "block.mcwbridges.crimson_log_bridge_end":"Karmesinholz Brücke Endstück",
+         "block.mcwbridges.crimson_log_bridge_middle":"Karmesinholz Brücke Mittelteil",
+         "block.mcwbridges.warped_log_bridge_end":"Wirrholz Brücke Endstück",
+         "block.mcwbridges.warped_log_bridge_middle":"Wirrholz Brücke Mittelteil",
+
+         "block.mcwbridges.rope_oak_bridge":"Eichenholz Seilbrücke",
+         "block.mcwbridges.rope_oak_bridge_end":"Eichenholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_birch_bridge":"Birkenholz Seilbrücke",
+         "block.mcwbridges.rope_birch_bridge_end":"Birkenholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_spruce_bridge":"Fichtenholz Seilbrücke",
+         "block.mcwbridges.rope_spruce_bridge_end":"Fichtenholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_jungle_bridge":"Tropenenholz Seilbrücke",
+         "block.mcwbridges.rope_jungle_bridge_end":"Tropenenholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_acacia_bridge":"Akazienholz Seilbrücke",
+         "block.mcwbridges.rope_acacia_bridge_end":"Akazienholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_dark_oak_bridge":"Schwarzeichenholz Seilbrücke",
+         "block.mcwbridges.rope_dark_oak_bridge_end":"Schwarzeichenholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_crimson_bridge":"Karmesinholz Seilbrücke",
+         "block.mcwbridges.rope_crimson_bridge_end":"Karmesinholz Seilbrücke Endstück",
+         "block.mcwbridges.rope_warped_bridge":"Wirrholz Seilbrücke",
+         "block.mcwbridges.rope_warped_bridge_end":"Wirrholz Seilbrücke Endstück",
+         
+         
+         
+
+         "block.mcwbridges.brick_bridge":"Ziegel Brücke",
+         "block.mcwbridges.brick_bridge_end":"Ziegel Brücke Endstück",
+         "block.mcwbridges.stone_brick_bridge":"Steinziegel Brücke",
+         "block.mcwbridges.stone_brick_bridge_end":"Steinziegel Brücke Endstück",
+         "block.mcwbridges.sandstone_bridge":"Sandstein Brücke",
+         "block.mcwbridges.sandstone_bridge_end":"Sandstein Brücke Endstück",
+         "block.mcwbridges.orange_sandstone_bridge":"Roter Sandstein Brücke",
+         "block.mcwbridges.orange_sandstone_bridge_end":"Roter Sandstein Brücke Endstück",
+         
+ 	 	 "block.mcwbridges.blackstone_bridge":"Schwarzsstein Brücke",
+         "block.mcwbridges.blackstone_bridge_end":"Schwarzsstein Brücke Endstückstück",
+         
+        "block.mcwbridges.oak_rail_bridge":"Eichenholz Schienenbrücke",
+		"block.mcwbridges.spruce_rail_bridge":"Fichtenholz Schienenbrücke",
+		"block.mcwbridges.birch_rail_bridge":"Birkenholz Schienenbrücke",
+		"block.mcwbridges.jungle_rail_bridge":"Tropenholz Schienenbrücke",
+		"block.mcwbridges.acacia_rail_bridge":"Akazienholz Schienenbrücke",
+		"block.mcwbridges.dark_oak_rail_bridge":"Schwarzeichenholz Schienenbrücke",
+		"block.mcwbridges.crimson_rail_bridge":"Karmesinholz Schienenbrücke",
+		"block.mcwbridges.warped_rail_bridge":"Wirrholz Schienenbrücke",
+	
+		"block.mcwbridges.oak_rail_bridge_powered":"Redstone Eichenholz Schienenbrücke",
+  		"block.mcwbridges.spruce_rail_bridge_powered":"Redstone Fichtenholz Schienenbrücke",
+		"block.mcwbridges.birch_rail_bridge_powered":"Redstone Birkenholz Schienenbrücke",
+		"block.mcwbridges.jungle_rail_bridge_powered":"Redstone Tropenholz Schienenbrücke",
+		"block.mcwbridges.acacia_rail_bridge_powered":"Redstone Akazienholz Schienenbrücke",
+		"block.mcwbridges.dark_oak_rail_bridge_powered":"Redstone Schwarzeichenholz Schienenbrücke",		
+		"block.mcwbridges.crimson_rail_bridge_powered":"Redstone Karmesinholz Schienenbrücke",
+		"block.mcwbridges.warped_rail_bridge_powered":"Redstone Wirrholz Schienenbrücke",
+		
+		
+		
+		
+		"block.mcwbridges.bamboo_bridge":"Bambusholz Brücke"
+		                                                                          
+	}
+	
